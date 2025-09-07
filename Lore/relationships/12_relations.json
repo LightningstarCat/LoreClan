@@ -1,0 +1,563 @@
+[
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 6,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Lightningdapple is embarrassed about something that Basaltpaw finds really cool! (medium positive effect) - Basaltpaw was 9 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "156",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 2,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Basaltkit gets a little irritated seeing Steadyheart ignore a mess in camp. (low negative effect) - Basaltkit was 5 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "158",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 13,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (negative effect)- Yellowfang was 88 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 23,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "These cats recently interacted. (positive effect)- Dreamdawn was 64 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Basaltpaw asks Nightmaredusk if there's something in his teeth. (neutral effect) - Basaltpaw was 6 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 5,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "163",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 8,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "164",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 3,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 15,
+        "dislike": 0,
+        "admiration": 8,
+        "comfortable": 24,
+        "jealousy": 0,
+        "trust": 15,
+        "log": [
+            "Basaltleopard and Goldenblink often look at each other and smile knowingly about something. (low positive effect) - Basaltleopard was 12 moons old",
+            "Basaltleopard offers to groom a hard-to-reach place for Goldenblink, who thanks him earnestly. (high positive effect) - Basaltleopard was 13 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 15,
+        "comfortable": 16,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Basaltpaw chuckles as he witnesses Spiritmeadow having a rough day. (medium positive effect) - Basaltpaw was 8 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 13,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 8,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Squirrelkit hit Basaltpaw on the face with her tail while passing by. (low negative effect) - Basaltpaw was 7 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 49,
+        "dislike": 0,
+        "admiration": 39,
+        "comfortable": 29,
+        "jealousy": 0,
+        "trust": 24,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 62,
+        "dislike": 0,
+        "admiration": 39,
+        "comfortable": 37,
+        "jealousy": 0,
+        "trust": 29,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old",
+            "Basaltleopard sees Raingrass put something back where it belongs. (low positive effect) - Basaltleopard was 11 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "These cats recently interacted. (positive effect)- Slateflood was 104 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 16,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Sunpaw always knows how to make Basaltpaw laugh. (high positive effect) - Basaltpaw was 10 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Limiting Reactant was 28 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "12",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    }
+]

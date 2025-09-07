@@ -1,0 +1,32 @@
+{
+    "beginning": {},
+    "mentor_influence": {
+        "trait": {
+            "169": {
+                "lawfulness": -1,
+                "strings": [
+                    "bend the rules"
+                ]
+            }
+        },
+        "skill": {
+            "169": {
+                "THINKER": 4,
+                "strings": [
+                    "thinking outside of the box"
+                ]
+            }
+        }
+    },
+    "app_ceremony": {
+        "honor": "hard work",
+        "graduation_age": 10,
+        "moon": 2
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

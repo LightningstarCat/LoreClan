@@ -1,0 +1,34 @@
+{
+    "beginning": {
+        "clan_born": true,
+        "birth_season": "Leaf-fall",
+        "age": 0,
+        "moon": 1
+    },
+    "mentor_influence": {
+        "trait": {
+            "156": {
+                "stability": 2,
+                "aggression": 2,
+                "sociability": -1,
+                "strings": [
+                    "adapt easily",
+                    "use teeth and claws over words",
+                    "bicker with others"
+                ]
+            }
+        },
+        "skill": {}
+    },
+    "app_ceremony": {
+        "honor": "hard work",
+        "graduation_age": 11,
+        "moon": 12
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

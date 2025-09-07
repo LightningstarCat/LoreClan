@@ -1,0 +1,38 @@
+{
+    "beginning": {},
+    "mentor_influence": {
+        "trait": {
+            "169": {
+                "sociability": 5,
+                "aggression": -4,
+                "lawfulness": 2,
+                "strings": [
+                    "interact with others",
+                    "avoid a fight",
+                    "follow the status quo"
+                ]
+            }
+        },
+        "skill": {
+            "169": {
+                "NAVIGATOR": 14,
+                "TRACKER": 2,
+                "strings": [
+                    "navigating unknown territory",
+                    "tracking down scents"
+                ]
+            }
+        }
+    },
+    "app_ceremony": {
+        "honor": "support",
+        "graduation_age": 12,
+        "moon": 10
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

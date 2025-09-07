@@ -1,0 +1,637 @@
+[
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 10,
+        "dislike": 13,
+        "admiration": 15,
+        "comfortable": 13,
+        "jealousy": 8,
+        "trust": 0,
+        "log": [
+            "Heatherdaisy saw Willowpaw take the last piece of prey from the fresh-kill pile. (medium negative effect) - Heatherdaisy was 71 moons old",
+            "Heatherdaisy and Willowbreeze come up with a catchy song together. (low positive effect) - Heatherdaisy was 73 moons old",
+            "Heatherdaisy was scolded for something that Willowbreeze gets praised for. (low negative effect) - Heatherdaisy was 76 moons old",
+            "Heatherdaisy said he'd cover for Willowbreeze, but when it came time, he got Willowbreeze in trouble. (medium negative effect) - Heatherdaisy was 77 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "156",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 18,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 17,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lorestar was 54 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 9,
+        "dislike": 0,
+        "admiration": 45,
+        "comfortable": 19,
+        "jealousy": 0,
+        "trust": 59,
+        "log": [
+            "Heatherdaisy notices that Steadyheart has finished all her tasks without issues lately. (medium positive effect) - Heatherdaisy was 71 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 28 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 34 moons old",
+            "Heatherdaisy is told about Steadyheart's bravery during a recent time of struggle. (medium positive effect) - Heatherdaisy was 79 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "158",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 6,
+        "dislike": 15,
+        "admiration": 0,
+        "comfortable": 1,
+        "jealousy": 7,
+        "trust": 0,
+        "log": [
+            "Heatherdaisy and Yellowfang talk about a Clanmate and realize they have very different opinions on them. (medium negative effect) - Heatherdaisy was 77 moons old",
+            "Yellowfang was complimented by another Clan during the recent Gathering, but Heatherdaisy wasn't. (medium negative effect) - Heatherdaisy was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 28,
+        "dislike": 2,
+        "admiration": 23,
+        "comfortable": 34,
+        "jealousy": 0,
+        "trust": 37,
+        "log": [
+            "Rootpaw lets Heatherdaisy know that a Clanmate was talking badly about him. (low positive effect) - Heatherdaisy was 74 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 6 moons old",
+            "Rootpaw points out that Heatherdaisy's fresh-kill has gone bad before she eats it. (medium positive effect) - Heatherdaisy was 75 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 7 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 10 moons old",
+            "Heatherdaisy has drawn the ire of Rootpounce by deliberately taking the last of her favorite nesting materials for himself. (low negative effect) - Heatherdaisy was 80 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 17 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 22,
+        "comfortable": 25,
+        "jealousy": 0,
+        "trust": 14,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 17,
+        "platonic_like": 29,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 35,
+        "jealousy": 0,
+        "trust": 29,
+        "log": [
+            "Heatherdaisy is disappointed in Nightmaredusk's lack of initiative. (medium negative effect) - Heatherdaisy was 72 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 4,
+        "dislike": 5,
+        "admiration": 9,
+        "comfortable": 25,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "Emberdrift does something embarrassing in the middle of camp today - it makes Heatherdaisy feel slightly better. (low positive effect) - Heatherdaisy was 80 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old",
+            "Emberdrift helps Heatherdaisy get a thorn out of his paw. (low positive effect) - Heatherdaisy was 88 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "163",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 17,
+        "dislike": 0,
+        "admiration": 13,
+        "comfortable": 24,
+        "jealousy": 11,
+        "trust": 10,
+        "log": [
+            "Heatherdaisy settles down next to Leopardbreeze to listen to her stories. (medium positive effect) - Heatherdaisy was 75 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "164",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 7,
+        "dislike": 11,
+        "admiration": 0,
+        "comfortable": 15,
+        "jealousy": 0,
+        "trust": 7,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tsunamiroar was 112 moons old",
+            "These cats recently interacted. (negative effect)- Tsunamiroar was 114 moons old",
+            "Heatherdaisy is let down by Tsunamiroar's sloppy performance during a sparring session. (medium negative effect) - Heatherdaisy was 74 moons old",
+            "These cats recently interacted. (negative effect)- Tsunamiroar was 118 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 20,
+        "dislike": 0,
+        "admiration": 11,
+        "comfortable": 35,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "These cats recently interacted. (negative effect)- Galeswift was 18 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 19 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old",
+            "Both Heatherdaisy and Galeswift enthusiastically congratulate another Clanmate on something. (high positive effect) - Heatherdaisy was 88 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 11,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 7,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Goldenblink was 93 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 8,
+        "comfortable": 19,
+        "jealousy": 0,
+        "trust": 7,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 12,
+        "platonic_like": 32,
+        "dislike": 0,
+        "admiration": 18,
+        "comfortable": 17,
+        "jealousy": 0,
+        "trust": 7,
+        "log": [
+            "If you were to ask Heatherdaisy, no other cat is anywhere near as fun or interesting as Darkspark. (medium positive effect) - Heatherdaisy was 76 moons old",
+            "Heatherdaisy thinks Darkspark was nice to him today. (low positive effect) - Heatherdaisy was 78 moons old",
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old",
+            "These cats recently interacted. (positive effect)- Darkspark was 68 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "170",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 34,
+        "dislike": 0,
+        "admiration": 17,
+        "comfortable": 23,
+        "jealousy": 0,
+        "trust": 12,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "171",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 24,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 18,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Heatherdaisy has drawn the ire of Lightningkit by deliberately taking the last of her favorite nesting materials for himself. (low negative effect) - Heatherdaisy was 76 moons old",
+            "Heatherdaisy and Lightningdapple plan all their days together. (high positive effect) - Heatherdaisy was 81 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "Heatherdaisy and Lightningdapple spend some time together and nearly forget what made them upset with one another in the first place. (medium positive effect) - Heatherdaisy was 86 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 23,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "Heatherdaisy is motivated by Spiritkit's big smile. (low positive effect) - Heatherdaisy was 72 moons old",
+            "Heatherdaisy can't tell Spiritkit is upset with him. (neutral effect) - Heatherdaisy was 73 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old",
+            "Heatherdaisy helps Spiritmeadow figure out how to word something. (medium positive effect) - Heatherdaisy was 86 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 13,
+        "dislike": 0,
+        "admiration": 15,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Late at night, Heatherdaisy finds Tempestswirl sitting alone at the edge of camp. They go back to their dens without speaking. (low negative effect) - Heatherdaisy was 81 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 40 moons old",
+            "Heatherdaisy sees Tempestswirl put something back where it belongs. (low positive effect) - Heatherdaisy was 83 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 41 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 18,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 22,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 16,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "Heatherdaisy noticed that Emeraldpaw is falling behind in training and offered to help him catch up. (medium positive effect) - Heatherdaisy was 78 moons old",
+            "These cats recently interacted. (positive effect)- Emeraldcall was 14 moons old",
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 17,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Heatherdaisy and Twigkit realize they have a similar sense of humor. (medium positive effect) - Heatherdaisy was 79 moons old",
+            "Heatherdaisy and Squirrelkit chat about Clan news. (low positive effect) - Heatherdaisy was 82 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 8,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "Heatherdaisy and Electricnight mark the same spot of the border as a sign of friendship. Gross. (medium positive effect) - Heatherdaisy was 83 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Basaltpaw has to tell Heatherdaisy to stop staring at the sun. (neutral effect) - Heatherdaisy was 82 moons old",
+            "Heatherdaisy forgets Basaltpaw's name. (neutral effect) - Heatherdaisy was 85 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Slateflood was 103 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 15,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Heatherdaisy clears up a misunderstanding with Serpentpaw. (low positive effect) - Heatherdaisy was 84 moons old",
+            "Serpentgleam compliments one of Heatherdaisy's friends. (low positive effect) - Heatherdaisy was 85 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 8,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Limiting Reactant won't give up a warm, sunny spot for Heatherdaisy, not even for a minute. (medium negative effect) - Heatherdaisy was 84 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Heatherdaisy and Vulturethorn chat idly about the latest meeting. (neutral effect) - Heatherdaisy was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "169",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 12,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    }
+]

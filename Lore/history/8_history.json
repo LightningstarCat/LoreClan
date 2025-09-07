@@ -1,0 +1,39 @@
+{
+    "beginning": {
+        "clan_born": true,
+        "birth_season": "Newleaf",
+        "age": 0,
+        "moon": 8
+    },
+    "mentor_influence": {
+        "trait": {
+            "165": {
+                "stability": -1,
+                "sociability": 2,
+                "strings": [
+                    "behave erratically",
+                    "put others at ease"
+                ]
+            }
+        },
+        "skill": {
+            "165": {
+                "SLEEPER": 3,
+                "strings": [
+                    "self-care"
+                ]
+            }
+        }
+    },
+    "app_ceremony": {
+        "honor": "hard work",
+        "graduation_age": 10,
+        "moon": 18
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

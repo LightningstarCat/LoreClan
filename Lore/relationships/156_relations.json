@@ -1,0 +1,636 @@
+[
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 32,
+        "dislike": 0,
+        "admiration": 21,
+        "comfortable": 19,
+        "jealousy": 8,
+        "trust": 4,
+        "log": [
+            "Lorestar was scolded for something that Willowpaw gets praised for. (low negative effect) - Lorestar was 54 moons old",
+            "Lorestar cheers Willowbreeze up after a small disagreement. (medium positive effect) - Lorestar was 56 moons old",
+            "Lorestar sees a glimmer of determination in Willowbreeze's eyes. (low positive effect) - Lorestar was 60 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 33,
+        "dislike": 0,
+        "admiration": 47,
+        "comfortable": 32,
+        "jealousy": 0,
+        "trust": 47,
+        "log": [
+            "These cats recently interacted. (positive effect)- Steadyheart was 28 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 29 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 34 moons old",
+            "Lorestar can tell Steadyheart worries about their health and safety. (high positive effect) - Lorestar was 67 moons old",
+            "Lorestar and Steadyheart come up with a catchy song together. (low positive effect) - Lorestar was 69 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 44 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "158",
+        "mates": true,
+        "family": false,
+        "romantic_love": 20,
+        "platonic_like": 59,
+        "dislike": 0,
+        "admiration": 16,
+        "comfortable": 54,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "Lorestar made Yellowfang laugh again and again. (medium positive effect) - Lorestar was 54 moons old",
+            "Lorestar is sharing a piece of fresh-kill with Yellowfang. (medium positive effect) - Lorestar was 63 moons old",
+            "Lorestar notices Yellowfang has been hiding a few things from them. (medium negative effect) - Lorestar was 70 moons old",
+            "Yellowfang purrs for a long time at one of Lorestar's lame jokes. (high positive effect) - Lorestar was 71 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 13,
+        "admiration": 10,
+        "comfortable": 14,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "Lorestar notices how rude Rootpaw is being to a Clanmate. (medium negative effect) - Lorestar was 58 moons old",
+            "Lorestar notices Rootpaw failed to complete a simple task. (low negative effect) - Lorestar was 61 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 10 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 4,
+        "dislike": 0,
+        "admiration": 14,
+        "comfortable": 15,
+        "jealousy": 0,
+        "trust": 13,
+        "log": [
+            "These cats recently interacted. (positive effect)- Dreamdawn was 68 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 11,
+        "comfortable": 4,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 34 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 15,
+        "dislike": 5,
+        "admiration": 19,
+        "comfortable": 21,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Lorestar reveals something to Emberdrift. Apparently Emberdrift can relate! (medium positive effect) - Lorestar was 57 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "Lorestar swaps favorite prey with Emberdrift. (medium positive effect) - Lorestar was 66 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old",
+            "Emberdrift keeps asking Lorestar if they trust him. (low negative effect) - Lorestar was 69 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 26 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "163",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 32,
+        "dislike": 0,
+        "admiration": 12,
+        "comfortable": 25,
+        "jealousy": 0,
+        "trust": 13,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "164",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 6,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tsunamiroar was 112 moons old",
+            "These cats recently interacted. (negative effect)- Tsunamiroar was 118 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 10,
+        "dislike": 11,
+        "admiration": 20,
+        "comfortable": 24,
+        "jealousy": 7,
+        "trust": 10,
+        "log": [
+            "Lorestar always tries to avoid making Galeswift the leader of a patrol. (medium negative effect) - Lorestar was 56 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 18 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 19 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old",
+            "Lorestar worries that one of their friends likes Galeswift more. (medium negative effect) - Lorestar was 65 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 21,
+        "dislike": 0,
+        "admiration": 19,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 1,
+        "log": [
+            "Lorestar is still a little hurt by Goldenblink, but wants to try and make amends. (medium positive effect) - Lorestar was 54 moons old",
+            "Lorestar sees Goldenblink fail this moon, and they come to the realization they are more alike than Lorestar thought. (medium positive effect) - Lorestar was 59 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 16,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 11,
+        "jealousy": 0,
+        "trust": 2,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 24,
+        "dislike": 10,
+        "admiration": 12,
+        "comfortable": 3,
+        "jealousy": 16,
+        "trust": 20,
+        "log": [
+            "Lorestar is complaining that Darkpatch never does anything helpful. (high negative effect) - Lorestar was 55 moons old",
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 18,
+        "dislike": 0,
+        "admiration": 17,
+        "comfortable": 14,
+        "jealousy": 0,
+        "trust": 9,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "170",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 11,
+        "comfortable": 3,
+        "jealousy": 0,
+        "trust": 15,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "171",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 31,
+        "dislike": 2,
+        "admiration": 5,
+        "comfortable": 17,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Lorestar heard a story about something kind Lightningkit did. (low positive effect) - Lorestar was 58 moons old",
+            "Lorestar snickers as Lightningkit falls flat on her face in the middle of camp. (medium negative effect) - Lorestar was 59 moons old",
+            "Lorestar is talking with Lightningpaw. (low positive effect) - Lorestar was 62 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 10,
+        "dislike": 33,
+        "admiration": 5,
+        "comfortable": 4,
+        "jealousy": 0,
+        "trust": 9,
+        "log": [
+            "Lorestar had a fight with Murmurkit. (high negative effect) - Lorestar was 55 moons old",
+            "Lorestar asks Murmurpaw to remind them of who's already gone on patrol today. (neutral effect) - Lorestar was 61 moons old",
+            "These cats recently interacted. (negative effect)- Murmurpaw was 7 moons old",
+            "Lorestar punishes Murmurpaw with extra work. (medium negative effect) - Lorestar was 63 moons old",
+            "These cats recently interacted. (positive effect)- Murmurdawn was 13 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 20,
+        "comfortable": 24,
+        "jealousy": 0,
+        "trust": 31,
+        "log": [
+            "Spiritkit makes a small sacrifice that benefits Lorestar. (low positive effect) - Lorestar was 60 moons old",
+            "Lorestar watches Spiritpaw training for something and nods approvingly at his progress. (neutral effect) - Lorestar was 64 moons old",
+            "These cats recently interacted. (positive effect)- Spiritpaw was 10 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old",
+            "Lorestar and Spiritmeadow make each other laugh. (low positive effect) - Lorestar was 70 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Whiteberry keeps calling Lorestar by the wrong name. (medium negative effect) - Lorestar was 57 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 13,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 18,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "Emeraldcall does something that makes Lorestar's day a little happier. (low positive effect) - Lorestar was 62 moons old",
+            "Lorestar had a good dream about Emeraldcall. (low positive effect) - Lorestar was 64 moons old",
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old",
+            "Lorestar gets some good advice from Emeraldcall about something trivial. (low positive effect) - Lorestar was 67 moons old",
+            "These cats recently interacted. (positive effect)- Emeraldcall was 19 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 11,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Lorestar keeps having bad dreams about Bronzekit. (high negative effect) - Lorestar was 65 moons old",
+            "Lorestar said something really rude to Bronzekit. (low negative effect) - Lorestar was 66 moons old",
+            "When Lorestar asked Bronzepaw for help, Bronzepaw ignored them. (low negative effect) - Lorestar was 68 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 10,
+        "dislike": 0,
+        "admiration": 15,
+        "comfortable": 3,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rainpaw was 6 moons old",
+            "These cats recently interacted. (positive effect)- Rainpaw was 7 moons old",
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 17,
+        "dislike": 2,
+        "admiration": 0,
+        "comfortable": 11,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "When Lorestar approached Sunpaw, he made a weird face. (low negative effect) - Lorestar was 68 moons old",
+            "Lorestar spends some time sheltering with Sunpaw during a storm. (medium positive effect) - Lorestar was 71 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 3,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "When Lorestar tells Wrenrush about a goal they have, Wrenrush snickers at it. (low negative effect) - Lorestar was 71 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Lorestar poses a crazy theory to Buggs, and they chat about it for a while. (neutral effect) - Lorestar was 70 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "156",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    }
+]

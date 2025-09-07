@@ -1,0 +1,623 @@
+[
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 33,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 21,
+        "jealousy": 0,
+        "trust": 14,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "156",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 19,
+        "dislike": 2,
+        "admiration": 7,
+        "comfortable": 22,
+        "jealousy": 0,
+        "trust": 15,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lorestar was 54 moons old",
+            "Ferretslither tells a story to Lorestar and Lorestar suggests how to make it even better. (medium positive effect) - Ferretslither was 142 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old",
+            "Ferretslither sees Lorestar fail this moon, and she comes to the realization they are more alike than Ferretslither thought. (medium positive effect) - Ferretslither was 156 moons old",
+            "Ferretslither complains about something Lorestar did. (low negative effect) - Ferretslither was 157 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 26,
+        "dislike": 0,
+        "admiration": 21,
+        "comfortable": 15,
+        "jealousy": 13,
+        "trust": 32,
+        "log": [
+            "Ferretslither suspects that Steadyheart gets special treatment. (low negative effect) - Ferretslither was 140 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 28 moons old",
+            "Steadyheart is making sure Ferretslither knows that she is loved. (medium positive effect) - Ferretslither was 145 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 34 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "158",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 24,
+        "dislike": 0,
+        "admiration": 20,
+        "comfortable": 23,
+        "jealousy": 0,
+        "trust": 7,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 13,
+        "dislike": 25,
+        "admiration": 26,
+        "comfortable": 14,
+        "jealousy": 0,
+        "trust": 27,
+        "log": [
+            "Ferretslither bestows wisdom onto Rootpaw. (low positive effect) - Ferretslither was 144 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 10 moons old",
+            "Ferretslither is talking with Rootpaw. (low positive effect) - Ferretslither was 148 moons old",
+            "Ferretslither and Rootpounce accidentally startle one another. (neutral effect) - Ferretslither was 150 moons old",
+            "Ferretslither had a heated argument with Rootpounce and said some very hurtful things. (high negative effect) - Ferretslither was 152 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old",
+            "Rootpounce squashes a bug that Ferretslither was watching. (medium negative effect) - Ferretslither was 154 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 11,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 11,
+        "trust": 8,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 19,
+        "dislike": 0,
+        "admiration": 14,
+        "comfortable": 48,
+        "jealousy": 0,
+        "trust": 54,
+        "log": [
+            "Ferretslither reassures Nightmaredusk about something that was bothering her. (low positive effect) - Ferretslither was 146 moons old",
+            "Nightmaredusk admits a mistake to Ferretslither and asks for forgiveness. (high positive effect) - Ferretslither was 148 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 39,
+        "dislike": 5,
+        "admiration": 13,
+        "comfortable": 27,
+        "jealousy": 0,
+        "trust": 16,
+        "log": [
+            "Ferretslither heard a story about something kind Emberdrift did. (low positive effect) - Ferretslither was 145 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "163",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 11,
+        "dislike": 0,
+        "admiration": 14,
+        "comfortable": 14,
+        "jealousy": 0,
+        "trust": 3,
+        "log": [
+            "Ferretslither always brings food to Leopardbreeze so she doesn't have to walk to the fresh-kill pile. (high positive effect) - Ferretslither was 147 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "164",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 31,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 19,
+        "jealousy": 0,
+        "trust": 23,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tsunamiroar was 112 moons old",
+            "Tsunamiroar surprises Ferretslither with something nice. (medium positive effect) - Ferretslither was 141 moons old",
+            "Ferretslither said something really rude to Tsunamiroar. (low negative effect) - Ferretslither was 142 moons old",
+            "These cats recently interacted. (negative effect)- Tsunamiroar was 118 moons old",
+            "Tsunamiroar gives Ferretslither a big piece of fresh-kill. (low positive effect) - Ferretslither was 149 moons old",
+            "Ferretslither bestows wisdom onto Tsunamiroar. (low positive effect) - Ferretslither was 152 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 29,
+        "dislike": 0,
+        "admiration": 11,
+        "comfortable": 36,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "These cats recently interacted. (negative effect)- Galeswift was 18 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 19 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old",
+            "Galeswift doesn't laugh when Ferretslither does something embarrassing. (medium positive effect) - Ferretslither was 151 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 18,
+        "dislike": 7,
+        "admiration": 36,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 24,
+        "log": [
+            "After Goldenblink says something seemingly innocent, Ferretslither sulks for the rest of the day. (high negative effect) - Ferretslither was 141 moons old",
+            "Ferretslither asks Goldenblink to teach her how to sing so well. (medium positive effect) - Ferretslither was 143 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 11,
+        "dislike": 0,
+        "admiration": 24,
+        "comfortable": 38,
+        "jealousy": 0,
+        "trust": 44,
+        "log": [
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old",
+            "Ferretslither asks Darkspark to look at a little cut on her leg. (high positive effect) - Ferretslither was 150 moons old",
+            "Ferretslither promises to always look out for Darkspark. (high positive effect) - Ferretslither was 151 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 12,
+        "comfortable": 6,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "When tucking in for the night, Ferretslither saw that Heatherdaisy fixed her nest. (low positive effect) - Ferretslither was 140 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "170",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 11,
+        "dislike": 0,
+        "admiration": 7,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 5,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "171",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 33,
+        "dislike": 0,
+        "admiration": 4,
+        "comfortable": 9,
+        "jealousy": 0,
+        "trust": 6,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 3,
+        "dislike": 11,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "Ferretslither has noticed Lightningdapple isn't doing a lot of work lately. (medium negative effect) - Ferretslither was 155 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 16,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 12,
+        "trust": 0,
+        "log": [
+            "Ferretslither and Murmurkit argued about something trivial and neither of them apologized. (low negative effect) - Ferretslither was 146 moons old",
+            "Ferretslither tries to do something like Murmurpaw, but just ends up getting embarrassed. (medium negative effect) - Ferretslither was 147 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 11,
+        "dislike": 0,
+        "admiration": 28,
+        "comfortable": 17,
+        "jealousy": 0,
+        "trust": 16,
+        "log": [
+            "Ferretslither and Spiritpaw cuddle during a storm. (medium positive effect) - Ferretslither was 149 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 7,
+        "dislike": 3,
+        "admiration": 10,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Ferretslither and Whiteberry laugh about something small together. (medium positive effect) - Ferretslither was 143 moons old",
+            "Ferretslither tried to explain something to Tempestswirl, but she just didn't understand. (low negative effect) - Ferretslither was 153 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 3,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Ferretslither and Hazeltalon are arguing about who should take the blame for something trivial. (low negative effect) - Ferretslither was 144 moons old",
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 20,
+        "jealousy": 0,
+        "trust": 17,
+        "log": [
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old",
+            "Ferretslither likes the way Emeraldcall laughs. (medium positive effect) - Ferretslither was 155 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old",
+            "A big bug keeps buzzing around Ferretslither and Rainpaw. (neutral effect) - Ferretslither was 154 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 16,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Ferretslither is prancing around in front of Slightdust. (low positive effect) - Ferretslither was 156 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 15,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 2,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Ferretslither sees Serpentgleam being gentle with an injured bug. (low positive effect) - Ferretslither was 157 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 16,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Ferretslither and Limiting Reactant plan all their days together. (high positive effect) - Ferretslither was 153 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "167",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "beginning": {},
+    "mentor_influence": {
+        "trait": {
+            "160": {
+                "aggression": 1,
+                "lawfulness": 1,
+                "strings": [
+                    "be ready for a fight",
+                    "follow the status quo"
+                ]
+            }
+        },
+        "skill": {}
+    },
+    "app_ceremony": {
+        "honor": "hard work",
+        "graduation_age": 12,
+        "moon": 1
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

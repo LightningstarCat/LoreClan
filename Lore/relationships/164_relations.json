@@ -1,0 +1,649 @@
+[
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 46,
+        "dislike": 0,
+        "admiration": 6,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 11,
+        "log": [
+            "These cats recently interacted. (positive effect)- Willowbreeze was 14 moons old",
+            "Tsunamiroar eats with Willowbreeze all the time! (high positive effect) - Tsunamiroar was 126 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "156",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 23,
+        "dislike": 0,
+        "admiration": 29,
+        "comfortable": 31,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lorestar was 54 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 57 moons old",
+            "Tsunamiroar and Lorestar learn a skill from each other that they've been envious about. (high positive effect) - Tsunamiroar was 116 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old",
+            "Tsunamiroar sees Lorestar be kind to one of Tsunamiroar's friends. (low positive effect) - Tsunamiroar was 129 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 54,
+        "dislike": 0,
+        "admiration": 55,
+        "comfortable": 18,
+        "jealousy": 0,
+        "trust": 42,
+        "log": [
+            "These cats recently interacted. (positive effect)- Steadyheart was 28 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 30 moons old",
+            "Tsunamiroar admires how brave Steadyheart is. (medium positive effect) - Tsunamiroar was 116 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 34 moons old",
+            "Tsunamiroar and Steadyheart always have something to share with each other. (high positive effect) - Tsunamiroar was 126 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "158",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 7,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 35,
+        "jealousy": 0,
+        "trust": 21,
+        "log": [
+            "These cats recently interacted. (positive effect)- Yellowfang was 81 moons old",
+            "Yellowfang sees Tsunamiroar stumble while hunting and thinks it's cute. (medium positive effect) - Tsunamiroar was 117 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 36,
+        "dislike": 0,
+        "admiration": 31,
+        "comfortable": 33,
+        "jealousy": 0,
+        "trust": 22,
+        "log": [
+            "When tucking in for the night, Tsunamiroar saw that Rootkit fixed his nest. (low positive effect) - Tsunamiroar was 113 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 6 moons old",
+            "Whenever Rootpaw's name is mentioned, Tsunamiroar relaxes. (high positive effect) - Tsunamiroar was 119 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 10 moons old",
+            "Tsunamiroar can't seem to get a straight answer from Rootpaw lately. (medium negative effect) - Tsunamiroar was 120 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old",
+            "Rootpounce draws a pretty symbol in the sand that Tsunamiroar makes sure not to mess up. (low positive effect) - Tsunamiroar was 128 moons old",
+            "Tsunamiroar and Rootpounce heckled another Clan at the Gathering together. (high positive effect) - Tsunamiroar was 129 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 23,
+        "dislike": 0,
+        "admiration": 2,
+        "comfortable": 11,
+        "jealousy": 0,
+        "trust": 14,
+        "log": [
+            "These cats recently interacted. (positive effect)- Dreamdawn was 56 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 42,
+        "dislike": 0,
+        "admiration": 40,
+        "comfortable": 15,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "Tsunamiroar notices some of Nightmaredusk's fur on his fresh-kill. (neutral effect) - Tsunamiroar was 113 moons old",
+            "Tsunamiroar learns something new about a Clanmate from Nightmaredusk. (low positive effect) - Tsunamiroar was 115 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 24 moons old",
+            "Tsunamiroar notices how closely Nightmaredusk sticks to her beliefs. (medium positive effect) - Tsunamiroar was 121 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 5,
+        "admiration": 16,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 14,
+        "log": [
+            "Emberpaw accidentally gave Tsunamiroar a piece of fresh-kill he didn't like. (low negative effect) - Tsunamiroar was 112 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 12 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "163",
+        "mates": true,
+        "family": false,
+        "romantic_love": 32,
+        "platonic_like": 31,
+        "dislike": 0,
+        "admiration": 4,
+        "comfortable": 41,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "These cats recently interacted. (positive effect)- Leopardbreeze was 135 moons old",
+            "Tsunamiroar and Leopardbreeze played around during patrol and got in a bit of trouble, but still returned to camp smiling. (medium positive effect) - Tsunamiroar was 124 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 3,
+        "dislike": 0,
+        "admiration": 23,
+        "comfortable": 9,
+        "jealousy": 0,
+        "trust": 12,
+        "log": [
+            "Galeswift tells Tsunamiroar that his pelt is shiny today. (low positive effect) - Tsunamiroar was 115 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 15 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 18 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 19 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old",
+            "Tsunamiroar was flattered by Galeswift's politeness this morning. (low positive effect) - Tsunamiroar was 124 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 19,
+        "dislike": 4,
+        "admiration": 7,
+        "comfortable": 9,
+        "jealousy": 0,
+        "trust": 14,
+        "log": [
+            "These cats recently interacted. (positive effect)- Goldenblink was 85 moons old",
+            "Tsunamiroar has faith in Goldenblink. (medium positive effect) - Tsunamiroar was 118 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 50,
+        "dislike": 0,
+        "admiration": 13,
+        "comfortable": 38,
+        "jealousy": 0,
+        "trust": 13,
+        "log": [
+            "These cats recently interacted. (positive effect)- Ferretslither was 143 moons old",
+            "Tsunamiroar is pestering Ferretslither for a story. (medium positive effect) - Tsunamiroar was 117 moons old",
+            "Tsunamiroar spends some time with Ferretslither and they both end up understanding each other a little better. (medium positive effect) - Tsunamiroar was 127 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 13,
+        "dislike": 0,
+        "admiration": 28,
+        "comfortable": 4,
+        "jealousy": 0,
+        "trust": 24,
+        "log": [
+            "Tsunamiroar sees Darkpatch being gentle with an injured bug. (low positive effect) - Tsunamiroar was 112 moons old",
+            "These cats recently interacted. (positive effect)- Shadowspark was 59 moons old",
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old",
+            "Darkspark's good morning to Tsunamiroar meant a lot to him. (low positive effect) - Tsunamiroar was 122 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 28,
+        "dislike": 0,
+        "admiration": 1,
+        "comfortable": 30,
+        "jealousy": 0,
+        "trust": 33,
+        "log": [
+            "Something embarrassing happens to Tsunamiroar on a patrol, but Heatherdaisy promises not to tell anyone. (medium positive effect) - Tsunamiroar was 114 moons old",
+            "These cats recently interacted. (negative effect)- Heatherdaisy was 73 moons old",
+            "These cats recently interacted. (positive effect)- Heatherdaisy was 74 moons old",
+            "Tsunamiroar isn't afraid to ask Heatherdaisy a difficult question. (high positive effect) - Tsunamiroar was 119 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "170",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 24,
+        "dislike": 0,
+        "admiration": 6,
+        "comfortable": 24,
+        "jealousy": 0,
+        "trust": 7,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "171",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 8,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lightningkit was 3 moons old",
+            "Tsunamiroar's feelings are hurt by something Lightningkit said, but Lightningkit's apology is half-hearted. (low negative effect) - Tsunamiroar was 117 moons old",
+            "Tsunamiroar nods politely as Lightningpaw passes by. (neutral effect) - Tsunamiroar was 118 moons old",
+            "Lightningdapple gives Tsunamiroar something that he dropped. (low positive effect) - Tsunamiroar was 123 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 8,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 13,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Murmurkit was 3 moons old",
+            "Tsunamiroar thinks Murmurdawn looks nicer than him today. (low negative effect) - Tsunamiroar was 125 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 28,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Spiritkit was 3 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Tsunamiroar talks with Whiteberry about some Clan drama. (low positive effect) - Tsunamiroar was 114 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 32 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "4",
+        "mates": true,
+        "family": false,
+        "romantic_love": 70,
+        "platonic_like": 50,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 50,
+        "jealousy": 0,
+        "trust": 40,
+        "log": [
+            "These cats recently interacted. (positive effect)- Snowyfoot was 118 moons old",
+            "Snowyfoot takes Tsunamiroar out to look at the stars, explaining the constellations to him. (high positive effect) - Tsunamiroar was 128 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Hazeltalon was 97 moons old",
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 52,
+        "dislike": 0,
+        "admiration": 42,
+        "comfortable": 52,
+        "jealousy": 0,
+        "trust": 42,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 52,
+        "dislike": 0,
+        "admiration": 54,
+        "comfortable": 60,
+        "jealousy": 0,
+        "trust": 62,
+        "log": [
+            "Tsunamiroar asks Twigkit to watch his fresh-kill so he can go to the dirtplace. (medium positive effect) - Tsunamiroar was 120 moons old",
+            "Tsunamiroar notices that Squirrelkit is always one of the first to volunteer for a difficult task. (medium positive effect) - Tsunamiroar was 122 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 30,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Tsunamiroar and Rainkit make fun of one another, but it sounds more like insults than playful banter. (medium negative effect) - Tsunamiroar was 121 moons old",
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 15,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Tsunamiroar and Basaltpaw are arguing about who should take the blame for something trivial. (low negative effect) - Tsunamiroar was 123 moons old",
+            "The Clan notices that Tsunamiroar's claws unsheath when Basaltleopard is nearby. (medium negative effect) - Tsunamiroar was 128 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Slateflood notices that Tsunamiroar knows a lot about the Dark Forest. (neutral effect) - Tsunamiroar was 125 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 13,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 20,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 20,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Tsunamiroar hears Serpentgleam purring during a nap. (medium positive effect) - Tsunamiroar was 127 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "164",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    }
+]

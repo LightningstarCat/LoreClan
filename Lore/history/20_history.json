@@ -1,0 +1,26 @@
+{
+    "beginning": {
+        "clan_born": false,
+        "birth_season": null,
+        "age": 39,
+        "moon": 14,
+        "encountered": false
+    },
+    "mentor_influence": {
+        "trait": {},
+        "skill": {}
+    },
+    "app_ceremony": {},
+    "lead_ceremony": null,
+    "possible_history": {
+        "redcough": {
+            "death_text": "m_c died from an injury or illness (redcough).",
+            "scar_text": "m_c was scarred from an injury or illness (redcough).",
+            "other_cat": null
+        }
+    },
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

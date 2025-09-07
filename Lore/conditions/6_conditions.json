@@ -1,0 +1,18 @@
+{
+    "illnesses": {
+        "yellowcough": {
+            "severity": "major",
+            "mortality": 15,
+            "infectiousness": 30,
+            "duration": 3,
+            "moon_start": 17,
+            "risks": [
+                {
+                    "name": "redcough",
+                    "chance": 80
+                }
+            ],
+            "event_triggered": false
+        }
+    }
+}

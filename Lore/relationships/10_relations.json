@@ -1,0 +1,574 @@
+[
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 13,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lightningdapple was 10 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old",
+            "Electricnight points out a constellation to Lightningdapple. (neutral effect) - Electricnight was 103 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "156",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 10,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 22,
+        "jealousy": 0,
+        "trust": 27,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lorestar was 62 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 18,
+        "dislike": 0,
+        "admiration": 18,
+        "comfortable": 15,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Electricnight was woken up early by Steadyheart. (low negative effect) - Electricnight was 98 moons old",
+            "Steadyheart tells Electricnight that her pelt is shiny today. (low positive effect) - Electricnight was 99 moons old",
+            "Electricnight thinks Steadyheart is a good singer. (low positive effect) - Electricnight was 101 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 42 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "158",
+        "mates": false,
+        "family": false,
+        "romantic_love": 12,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 12,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 17,
+        "jealousy": 0,
+        "trust": 8,
+        "log": [
+            "Electricnight and Dreamdawn cuddle during a storm. (medium positive effect) - Electricnight was 97 moons old",
+            "Electricnight is surprised as Dreamdawn proves to be helpful this moon. (low positive effect) - Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 5,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "163",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "164",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 3,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "Galeswift ignored Electricnight's question. (medium negative effect) - Electricnight was 96 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old",
+            "Galeswift has to help Electricnight stop choking on a huge bone. (neutral effect) - Electricnight was 97 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 41,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 34,
+        "log": [
+            "Electricnight and Goldenblink always learn something new when they're together. (high positive effect) - Electricnight was 102 moons old",
+            "These cats recently interacted. (positive effect)- Goldenblink was 98 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 15,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 20,
+        "log": [
+            "These cats recently interacted. (positive effect)- Darkspark was 64 moons old",
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old",
+            "These cats recently interacted. (positive effect)- Darkspark was 66 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Heatherdaisy gives Electricnight a big piece of fresh-kill. (low positive effect) - Electricnight was 96 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 21,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 21,
+        "jealousy": 0,
+        "trust": 8,
+        "log": [
+            "Murmurpaw compliments Electricnight's name. (low positive effect) - Electricnight was 95 moons old",
+            "Electricnight has been spending time with Murmurpaw lately. (low positive effect) - Electricnight was 95 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 15,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 30,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 25,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 45 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 12,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 14,
+        "admiration": 0,
+        "comfortable": 8,
+        "jealousy": 21,
+        "trust": 0,
+        "log": [
+            "Electricnight and Squirrelkit find out they have nice conversations when they aren't bickering. (medium positive effect) - Electricnight was 98 moons old",
+            "Electricnight can't understand why Clanmates like Squirrelpaw so much. (high negative effect) - Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 38,
+        "dislike": 0,
+        "admiration": 28,
+        "comfortable": 18,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 45,
+        "dislike": 0,
+        "admiration": 30,
+        "comfortable": 25,
+        "jealousy": 0,
+        "trust": 25,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "15",
+        "mates": true,
+        "family": false,
+        "romantic_love": 20,
+        "platonic_like": 0,
+        "dislike": 10,
+        "admiration": 0,
+        "comfortable": 30,
+        "jealousy": 0,
+        "trust": 10,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 3,
+        "admiration": 0,
+        "comfortable": 5,
+        "jealousy": 12,
+        "trust": 0,
+        "log": [
+            "Electricnight wishes she looked more like Sunpaw. (medium negative effect) - Electricnight was 101 moons old",
+            "Electricnight wants to be closer to Sunpaw. (low positive effect) - Electricnight was 102 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 7,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 7,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Electricnight considers how to make amends with Freezepelt after a long night of deliberation. (high positive effect) - Electricnight was 99 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Electricnight remembers something nice that Wrenrush did. (low positive effect) - Electricnight was 103 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 13,
+        "log": []
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 10,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Buggs was 75 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "10",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    }
+]

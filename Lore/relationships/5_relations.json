@@ -1,0 +1,590 @@
+[
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 18,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 11,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Hazeltalon is telling a story to Lightningdapple. (medium positive effect) - Hazeltalon was 104 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 14,
+        "jealousy": 0,
+        "trust": 3,
+        "log": [
+            "Hazeltalon feels a little safer when Willowbreeze joins him in the clearing. (low positive effect) - Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "156",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 5,
+        "admiration": 5,
+        "comfortable": 8,
+        "jealousy": 8,
+        "trust": 5,
+        "log": [
+            "Hazeltalon hopes he just misheard Lorestar's rude remark. (low negative effect) - Hazeltalon was 99 moons old",
+            "Hazeltalon hesitantly asks to exchange fresh-kill with Lorestar. Lorestar agrees, since Hazeltalon's is their favorite kind, anyways. (medium positive effect) - Hazeltalon was 101 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old",
+            "Hazeltalon sighs as Lorestar is assigned to a task Hazeltalon has been wanting for moons. (low negative effect) - Hazeltalon was 109 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "157",
+        "mates": true,
+        "family": false,
+        "romantic_love": 20,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 20,
+        "jealousy": 0,
+        "trust": 15,
+        "log": [
+            "These cats recently interacted. (positive effect)- Steadyheart was 31 moons old",
+            "Hazeltalon heard an ugly rumor about Steadyheart. (high negative effect) - Hazeltalon was 101 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 34 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "158",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rootpaw was 10 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 10,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 18,
+        "jealousy": 0,
+        "trust": 22,
+        "log": [
+            "These cats recently interacted. (positive effect)- Dreamdawn was 56 moons old",
+            "Dreamdawn helps Hazeltalon fix a matted piece of fur on his back. (medium positive effect) - Hazeltalon was 105 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 17,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Hazeltalon is disappointed in Nightmaredusk's lack of initiative. (medium negative effect) - Hazeltalon was 105 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old",
+            "Hazeltalon is frustrated that Nightmaredusk won't take her actions more seriously. (medium negative effect) - Hazeltalon was 109 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 5,
+        "admiration": 0,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Hazeltalon and Emberdrift drink from the same puddle. (low positive effect) - Hazeltalon was 102 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "163",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 3,
+        "dislike": 11,
+        "admiration": 10,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "These cats recently interacted. (positive effect)- Galeswift was 15 moons old",
+            "A Clanmate claims that Hazeltalon wants Galeswift dead. (high negative effect) - Hazeltalon was 100 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 18 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 19 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Goldenblink was 90 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 3,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Hazeltalon and Ferretslither watch drama unfold in camp. (neutral effect) - Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 21,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 14,
+        "log": [
+            "Hazeltalon spent a long time talking with Heatherdaisy and was impressed by Heatherdaisy's insight. (high positive effect) - Hazeltalon was 102 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 5,
+        "admiration": 0,
+        "comfortable": 4,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Hazeltalon helps Murmurpaw figure out how to word something. (medium positive effect) - Hazeltalon was 100 moons old",
+            "These cats recently interacted. (negative effect)- Murmurpaw was 7 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 28,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 26,
+        "log": [
+            "Hazeltalon points out a nice rock for Spiritkit to sharpen his claws on. (neutral effect) - Hazeltalon was 98 moons old",
+            "Hazeltalon saw Spiritpaw being considerate. (low positive effect) - Hazeltalon was 103 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 18,
+        "dislike": 4,
+        "admiration": 10,
+        "comfortable": 11,
+        "jealousy": 7,
+        "trust": 5,
+        "log": [
+            "Hazeltalon thinks Tempestswirl has interesting things to talk about. (medium positive effect) - Hazeltalon was 99 moons old",
+            "Hazeltalon talks all the time about Tempestswirl. (high positive effect) - Hazeltalon was 104 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old",
+            "Hazeltalon notices that Tempestswirl makes other Clanmates laugh more than he does. (medium negative effect) - Hazeltalon was 111 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "164",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Hazeltalon and Tsunamiroar trip over the same twig in camp. (neutral effect) - Hazeltalon was 98 moons old",
+            "These cats recently interacted. (negative effect)- Tsunamiroar was 118 moons old",
+            "Hazeltalon asks Tsunamiroar if his fur looks clean. (neutral effect) - Hazeltalon was 103 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 16,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old",
+            "Hazeltalon makes all kinds of faces whenever Emeraldcall is brought up in conversation. (high negative effect) - Hazeltalon was 110 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 11,
+        "jealousy": 0,
+        "trust": 17,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "Hazeltalon and Electricnight volunteer to go on an extra border patrol together. (medium positive effect) - Hazeltalon was 107 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 12,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 8,
+        "log": [
+            "Hazeltalon asks Basaltpaw to teach him how to sing so well. (medium positive effect) - Hazeltalon was 108 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 28,
+        "jealousy": 0,
+        "trust": 24,
+        "log": [
+            "Hazeltalon and Limiting Reactant volunteer to go on an extra border patrol together. (medium positive effect) - Hazeltalon was 107 moons old",
+            "Hazeltalon is telling Wrenrush something interesting about another Clan. (medium positive effect) - Hazeltalon was 111 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 11,
+        "jealousy": 0,
+        "trust": 17,
+        "log": [
+            "During the last gathering, Hazeltalon and Vulturethorn defended their Clan against another Clan's heckling. (medium positive effect) - Hazeltalon was 108 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "5",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 13,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Hazeltalon is grossed out by something Snowyfoot did. (low negative effect) - Hazeltalon was 110 moons old"
+        ]
+    }
+]

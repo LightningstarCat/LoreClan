@@ -1,0 +1,37 @@
+{
+    "beginning": {
+        "clan_born": true,
+        "birth_season": "Leaf-fall",
+        "age": 0,
+        "moon": 1
+    },
+    "mentor_influence": {
+        "trait": {
+            "157": {
+                "stability": 3,
+                "strings": [
+                    "be consistent"
+                ]
+            }
+        },
+        "skill": {
+            "157": {
+                "GRACE": 7,
+                "strings": [
+                    "watching where they step"
+                ]
+            }
+        }
+    },
+    "app_ceremony": {
+        "honor": "intrigue",
+        "graduation_age": 12,
+        "moon": 13
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

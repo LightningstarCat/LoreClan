@@ -1,0 +1,33 @@
+{
+    "beginning": {
+        "clan_born": false,
+        "birth_season": null,
+        "age": 10,
+        "moon": 7,
+        "encountered": false
+    },
+    "mentor_influence": {
+        "trait": {
+            "162": {
+                "lawfulness": 3,
+                "sociability": -1,
+                "strings": [
+                    "follow rules",
+                    "be cold towards others"
+                ]
+            }
+        },
+        "skill": {}
+    },
+    "app_ceremony": {
+        "honor": "cunning",
+        "graduation_age": 11,
+        "moon": 8
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

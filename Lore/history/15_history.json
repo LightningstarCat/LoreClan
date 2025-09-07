@@ -1,0 +1,26 @@
+{
+    "beginning": {
+        "clan_born": false,
+        "birth_season": null,
+        "age": 116,
+        "moon": 11,
+        "encountered": false
+    },
+    "mentor_influence": {
+        "trait": {},
+        "skill": {}
+    },
+    "app_ceremony": {},
+    "lead_ceremony": null,
+    "possible_history": {
+        "broken back": {
+            "death_text": "m_c died from an injury or illness (broken back).",
+            "scar_text": "m_c was scarred from an injury or illness (broken back).",
+            "other_cat": null
+        }
+    },
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

@@ -1,0 +1,641 @@
+[
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 4,
+        "dislike": 8,
+        "admiration": 0,
+        "comfortable": 22,
+        "jealousy": 0,
+        "trust": 7,
+        "log": [
+            "Darkspark and Willowbreeze notice a cloud is shaped like a star. (neutral effect) - Darkspark was 61 moons old",
+            "Darkspark believes Willowbreeze is too quick to assume things. (low negative effect) - Darkspark was 63 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "156",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 9,
+        "dislike": 0,
+        "admiration": 23,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 18,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lorestar was 54 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 38,
+        "comfortable": 26,
+        "jealousy": 0,
+        "trust": 26,
+        "log": [
+            "These cats recently interacted. (positive effect)- Steadyheart was 28 moons old",
+            "Darkpatch feels triumph as Steadyheart gets assigned a task no other cat wanted. (low positive effect) - Darkpatch was 59 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 34 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "158",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 36,
+        "dislike": 0,
+        "admiration": 14,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 4,
+        "log": [
+            "These cats recently interacted. (positive effect)- Yellowfang was 85 moons old",
+            "Darkspark talks with Yellowfang about some Clan drama. (low positive effect) - Darkspark was 65 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 18,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 15,
+        "log": [
+            "Darkpatch and Rootkit come up with a catchy song together. (low positive effect) - Darkpatch was 58 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 10 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old",
+            "Darkspark thinks Rootpounce is a very good listener. (low positive effect) - Darkspark was 71 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 18,
+        "dislike": 0,
+        "admiration": 20,
+        "comfortable": 24,
+        "jealousy": 0,
+        "trust": 30,
+        "log": [
+            "Shadowspark waves to Dreamdawn with her tail as their patrols cross paths on the territory. (medium positive effect) - Shadowspark was 60 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 26,
+        "dislike": 12,
+        "admiration": 13,
+        "comfortable": 21,
+        "jealousy": 0,
+        "trust": 17,
+        "log": [
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 14,
+        "dislike": 19,
+        "admiration": 0,
+        "comfortable": 25,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Darkpatch chuckles as she witnesses Emberdrift having a rough day. (medium positive effect) - Darkpatch was 58 moons old",
+            "Darkpatch notices that Emberdrift has been avoiding his responsibilities lately. (medium negative effect) - Darkpatch was 59 moons old",
+            "Shadowspark thinks Emberdrift was nice to her today. (low positive effect) - Shadowspark was 60 moons old",
+            "Darkspark tells Emberdrift to count on her in a difficult situation. (high positive effect) - Darkspark was 62 moons old",
+            "Darkspark spends some time sheltering with Emberdrift during a storm. (medium positive effect) - Darkspark was 64 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 23 moons old",
+            "Darkspark is telling jokes about Emberdrift. (high negative effect) - Darkspark was 72 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "163",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 24,
+        "dislike": 8,
+        "admiration": 18,
+        "comfortable": 35,
+        "jealousy": 0,
+        "trust": 20,
+        "log": [
+            "Leopardbreeze is the only one who gets Darkpatch's joke. (medium positive effect) - Darkpatch was 56 moons old",
+            "Darkspark got tricked into doing one of Leopardbreeze's chores. (low negative effect) - Darkspark was 70 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "164",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 9,
+        "dislike": 0,
+        "admiration": 9,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 2,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tsunamiroar was 112 moons old",
+            "These cats recently interacted. (negative effect)- Tsunamiroar was 118 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 38,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 16,
+        "log": [
+            "Darkpatch notices some of Galeswift's fur on her fresh-kill. (neutral effect) - Darkpatch was 57 moons old",
+            "Darkpatch remembers something nice that Galeswift did. (low positive effect) - Darkpatch was 57 moons old",
+            "Galeswift mentions that Darkspark looks good today. (low positive effect) - Darkspark was 61 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 18 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 19 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 27 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "166",
+        "mates": true,
+        "family": false,
+        "romantic_love": 100,
+        "platonic_like": 82,
+        "dislike": 0,
+        "admiration": 19,
+        "comfortable": 100,
+        "jealousy": 0,
+        "trust": 38,
+        "log": [
+            "These cats recently interacted. (positive effect)- Goldenblink was 85 moons old",
+            "These cats recently interacted. (positive effect)- Goldenblink was 86 moons old",
+            "Darkspark purrs for a long time at one of Goldenblink's lame jokes. (high positive effect) - Darkspark was 62 moons old",
+            "Darkspark and Goldenblink were heard discussing kits. (high positive effect) - Darkspark was 64 moons old",
+            "Darkspark goes out of her way to catch Goldenblink's favorite prey. (high positive effect) - Darkspark was 65 moons old",
+            "These cats recently interacted. (positive effect)- Goldenblink was 97 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 12,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 27,
+        "dislike": 0,
+        "admiration": 15,
+        "comfortable": 3,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "If you were to ask Heatherdaisy, no other cat is anywhere near as fun or interesting as Darkspark. (medium positive effect) - Darkspark was 61 moons old",
+            "These cats recently interacted. (positive effect)- Heatherdaisy was 83 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "170",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 6,
+        "comfortable": 2,
+        "jealousy": 0,
+        "trust": 12,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "171",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 41,
+        "dislike": 26,
+        "admiration": 14,
+        "comfortable": 17,
+        "jealousy": 0,
+        "trust": 17,
+        "log": [
+            "Lightningpaw did an embarrassing prank on Darkspark's friend. (low negative effect) - Darkspark was 62 moons old",
+            "Darkspark makes all kinds of faces whenever Lightningdapple is brought up in conversation. (high negative effect) - Darkspark was 66 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 10 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 28,
+        "dislike": 0,
+        "admiration": 15,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 21,
+        "log": [
+            "Darkspark hisses at Murmurpaw over something small. (high negative effect) - Darkspark was 64 moons old",
+            "Murmurdawn follows through on a small promise made with Darkspark. (low positive effect) - Darkspark was 70 moons old",
+            "These cats recently interacted. (negative effect)- Murmurfox was 17 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 48,
+        "dislike": 0,
+        "admiration": 40,
+        "comfortable": 28,
+        "jealousy": 0,
+        "trust": 25,
+        "log": [
+            "Darkspark hesitantly asks to exchange fresh-kill with Spiritpaw. Spiritpaw agrees, since Darkspark's is his favorite kind, anyways. (medium positive effect) - Darkspark was 67 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 14,
+        "dislike": 0,
+        "admiration": 28,
+        "comfortable": 35,
+        "jealousy": 0,
+        "trust": 48,
+        "log": [
+            "Darkspark and Tempestswirl spend a few minutes complimenting one another. (high positive effect) - Darkspark was 63 moons old",
+            "Darkspark tells Tempestswirl to count on her in a difficult situation. (high positive effect) - Darkspark was 67 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 41 moons old",
+            "Darkspark listens to Tempestswirl's big plans for the day. (low positive effect) - Darkspark was 69 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 13,
+        "log": [
+            "Emeraldcall doesn't laugh when Darkspark does something embarrassing. (medium positive effect) - Darkspark was 65 moons old",
+            "Darkspark and Emeraldcall are assigned the same task. (neutral effect) - Darkspark was 68 moons old",
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 39,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 42,
+        "jealousy": 0,
+        "trust": 15,
+        "log": [
+            "Darkspark gets a little injured and Bronzekit is the first to help. (medium positive effect) - Darkspark was 68 moons old",
+            "Darkspark and Bronzepaw plan all their days together. (high positive effect) - Darkspark was 71 moons old",
+            "Darkspark offers to groom a hard-to-reach place for Bronzepaw, who thanks her earnestly. (high positive effect) - Darkspark was 73 moons old",
+            "Darkspark shares a joke about a neighboring Clan with Bronzepaw. (low positive effect) - Darkspark was 73 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 96 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old",
+            "These cats recently interacted. (positive effect)- Raingrass was 10 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Darkspark quickly apologizes after bumping into Slateflood. They have a small laugh about it. (low positive effect) - Darkspark was 66 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 13,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 5,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Darkspark helps Sunpaw with something he were struggling with. (low positive effect) - Darkspark was 69 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old",
+            "These cats recently interacted. (negative effect)- Poemscreech was 88 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "168",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 12,
+        "log": [
+            "Darkspark and Snowyfoot fill a puddle in the camp with sand together. (neutral effect) - Darkspark was 72 moons old"
+        ]
+    }
+]

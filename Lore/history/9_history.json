@@ -1,0 +1,19 @@
+{
+    "beginning": {
+        "clan_born": true,
+        "birth_season": "Newleaf",
+        "age": 0,
+        "moon": 8
+    },
+    "mentor_influence": {
+        "trait": {},
+        "skill": {}
+    },
+    "app_ceremony": {},
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

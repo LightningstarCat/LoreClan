@@ -1,0 +1,638 @@
+[
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 36,
+        "dislike": 5,
+        "admiration": 30,
+        "comfortable": 14,
+        "jealousy": 8,
+        "trust": 29,
+        "log": [
+            "Yellowfang likes the way Willowpaw laughs. (medium positive effect) - Yellowfang was 78 moons old",
+            "Willowbreeze's good morning to Yellowfang meant a lot to her. (low positive effect) - Yellowfang was 81 moons old",
+            "Yellowfang noticed Willowbreeze is doing her best today. (low positive effect) - Yellowfang was 84 moons old",
+            "Yellowfang notices one of her friends talking to Willowbreeze. (low negative effect) - Yellowfang was 92 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "156",
+        "mates": true,
+        "family": false,
+        "romantic_love": 36,
+        "platonic_like": 26,
+        "dislike": 0,
+        "admiration": 17,
+        "comfortable": 46,
+        "jealousy": 0,
+        "trust": 20,
+        "log": [
+            "Lorestar made Yellowfang laugh again and again. (medium positive effect) - Yellowfang was 77 moons old",
+            "Yellowfang nods politely as Lorestar passes by. (neutral effect) - Yellowfang was 78 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 54 moons old",
+            "Lorestar is amused at how Yellowfang manages to look so grumpy all the time. (neutral effect) - Yellowfang was 82 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old",
+            "Lorestar notices Yellowfang has been hiding a few things from them. (medium negative effect) - Yellowfang was 93 moons old",
+            "Yellowfang purrs for a long time at one of Lorestar's lame jokes. (high positive effect) - Yellowfang was 95 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 11,
+        "dislike": 10,
+        "admiration": 14,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 19,
+        "log": [
+            "These cats recently interacted. (positive effect)- Steadyheart was 28 moons old",
+            "These cats recently interacted. (negative effect)- Steadyheart was 30 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 34 moons old",
+            "Yellowfang spent a long time talking with Steadyheart, and was disappointed by Steadyheart's lack of interest. (high negative effect) - Yellowfang was 88 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 10,
+        "admiration": 22,
+        "comfortable": 25,
+        "jealousy": 8,
+        "trust": 23,
+        "log": [
+            "Yellowfang walks by Rootkit, mumbling something about a Clanmate with a sour expression. (neutral effect) - Yellowfang was 80 moons old",
+            "Yellowfang notices one of her friends talking to Rootpaw. (low negative effect) - Yellowfang was 83 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 10 moons old",
+            "These cats recently interacted. (negative effect)- Rootpaw was 11 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 22,
+        "dislike": 0,
+        "admiration": 9,
+        "comfortable": 26,
+        "jealousy": 0,
+        "trust": 2,
+        "log": [
+            "Yellowfang checks in on Dreamdawn every day. (high positive effect) - Yellowfang was 79 moons old",
+            "Dreamdawn just noticed how beautiful Yellowfang's eyes are. (low positive effect) - Yellowfang was 80 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 23,
+        "dislike": 0,
+        "admiration": 25,
+        "comfortable": 32,
+        "jealousy": 0,
+        "trust": 30,
+        "log": [
+            "Yellowfang thinks that Nightmaredusk is very creative. (medium positive effect) - Yellowfang was 82 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 27 moons old",
+            "Yellowfang didn't expect Nightmaredusk to be so amicable today. (low positive effect) - Yellowfang was 88 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 21,
+        "dislike": 0,
+        "admiration": 34,
+        "comfortable": 20,
+        "jealousy": 0,
+        "trust": 38,
+        "log": [
+            "Yellowfang points out a nice rock for Emberpaw to sharpen his claws on. (neutral effect) - Yellowfang was 79 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "Yellowfang can't believe how talented Emberdrift is! (high positive effect) - Yellowfang was 89 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old",
+            "The whole Clan notices how close Yellowfang and Emberdrift are lately. (high positive effect) - Yellowfang was 94 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "163",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 27,
+        "dislike": 0,
+        "admiration": 3,
+        "comfortable": 43,
+        "jealousy": 0,
+        "trust": 16,
+        "log": [
+            "Yellowfang thinks Leopardbreeze tells the best stories. (high positive effect) - Yellowfang was 80 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "164",
+        "mates": false,
+        "family": false,
+        "romantic_love": 17,
+        "platonic_like": 29,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tsunamiroar was 112 moons old",
+            "Yellowfang sees Tsunamiroar stumble while hunting and thinks it's cute. (medium positive effect) - Yellowfang was 84 moons old",
+            "These cats recently interacted. (negative effect)- Tsunamiroar was 118 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 7,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 15,
+        "jealousy": 0,
+        "trust": 15,
+        "log": [
+            "These cats recently interacted. (negative effect)- Galeswift was 18 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 19 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old",
+            "Yellowfang and Galeswift enjoy the rain together. (low positive effect) - Yellowfang was 89 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 10,
+        "platonic_like": 30,
+        "dislike": 0,
+        "admiration": 2,
+        "comfortable": 2,
+        "jealousy": 0,
+        "trust": 2,
+        "log": [
+            "Yellowfang didn't get the joke Goldenblink was telling. (low negative effect) - Yellowfang was 79 moons old",
+            "Goldenblink thanked Yellowfang for bringing her food. (low positive effect) - Yellowfang was 95 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 14,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 1,
+        "jealousy": 0,
+        "trust": 13,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 13,
+        "dislike": 0,
+        "admiration": 12,
+        "comfortable": 25,
+        "jealousy": 0,
+        "trust": 16,
+        "log": [
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 19,
+        "dislike": 0,
+        "admiration": 3,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 15,
+        "log": [
+            "Yellowfang is impressed by Heatherdaisy's competence in any situation. (high positive effect) - Yellowfang was 81 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "170",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 3,
+        "jealousy": 0,
+        "trust": 2,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "171",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 21,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 4,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Yellowfang chats with Lightningdapple while grabbing something to eat. (medium positive effect) - Yellowfang was 91 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 3,
+        "dislike": 6,
+        "admiration": 0,
+        "comfortable": 7,
+        "jealousy": 8,
+        "trust": 8,
+        "log": [
+            "Murmurkit tells Yellowfang to smile more. (low negative effect) - Yellowfang was 83 moons old",
+            "Yellowfang and Murmurkit roll up moss balls together. (low positive effect) - Yellowfang was 84 moons old",
+            "Yellowfang thinks Murmurpaw looks nicer than her today. (low negative effect) - Yellowfang was 85 moons old",
+            "Murmurpaw vents about something trivial to Yellowfang. (low positive effect) - Yellowfang was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 28,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 13,
+        "log": [
+            "Yellowfang and Spiritpaw find out they have the same favorite prey! (low positive effect) - Yellowfang was 85 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Yellowfang tries to say something rude, but Hazeltalon just laughs at it. (neutral effect) - Yellowfang was 86 moons old",
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Emeraldcall keeps pacing around the clearing late at night and Yellowfang is the only one who notices. (high negative effect) - Yellowfang was 86 moons old",
+            "Yellowfang and Emeraldcall always have something to share with each other. (high positive effect) - Yellowfang was 90 moons old",
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 8,
+        "log": [
+            "Yellowfang sees a pretty flower in Squirrelpaw's nest. (low positive effect) - Yellowfang was 95 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "Yellowfang is talking with Electricnight. (low positive effect) - Yellowfang was 92 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 21,
+        "admiration": 5,
+        "comfortable": 7,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Yellowfang realizes that she and Rainpaw have had a lot of the same hardships. (high positive effect) - Yellowfang was 90 moons old",
+            "Yellowfang sighs at the mere mention of Rainpaw. (high negative effect) - Yellowfang was 91 moons old",
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 17,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Yellowfang tells someone to get Basaltkit away from her. (medium negative effect) - Yellowfang was 87 moons old",
+            "These cats recently interacted. (negative effect)- Basaltpaw was 6 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 22,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 11,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Sunpaw was 9 moons old",
+            "Sunpaw reminds Yellowfang to grab something from the fresh-kill pile if he hasn't already. (medium positive effect) - Yellowfang was 94 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 14,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 21,
+        "trust": 0,
+        "log": [
+            "Yellowfang is complaining that Wrenrush never does anything helpful. (high negative effect) - Yellowfang was 93 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 11,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Vulturethorn insulted Yellowfang's looks behind her back and thought Yellowfang didn't hear it. (medium negative effect) - Yellowfang was 93 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "158",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    }
+]

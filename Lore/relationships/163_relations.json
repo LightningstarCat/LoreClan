@@ -1,0 +1,625 @@
+[
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 19,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 7,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "156",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 16,
+        "admiration": 20,
+        "comfortable": 4,
+        "jealousy": 0,
+        "trust": 17,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lorestar was 54 moons old",
+            "Leopardbreeze notices that Lorestar brought her a big piece of prey. (medium positive effect) - Leopardbreeze was 136 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old",
+            "Leopardbreeze can't stop thinking about the strange joke Lorestar told the other day. (medium negative effect) - Leopardbreeze was 142 moons old",
+            "Something good happens to Leopardbreeze and most Clanmates congratulate her, but Lorestar doesn't say anything at all. (low negative effect) - Leopardbreeze was 143 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 43,
+        "dislike": 0,
+        "admiration": 38,
+        "comfortable": 14,
+        "jealousy": 0,
+        "trust": 24,
+        "log": [
+            "These cats recently interacted. (positive effect)- Steadyheart was 28 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 34 moons old",
+            "Leopardbreeze and Steadyheart talk about what they see in the clouds. (low positive effect) - Leopardbreeze was 140 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "158",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 9,
+        "dislike": 0,
+        "admiration": 4,
+        "comfortable": 6,
+        "jealousy": 0,
+        "trust": 11,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 35,
+        "dislike": 0,
+        "admiration": 25,
+        "comfortable": 33,
+        "jealousy": 0,
+        "trust": 31,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rootpaw was 10 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old",
+            "Rootpounce is poised to help train Leopardbreeze. (medium positive effect) - Leopardbreeze was 149 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "160",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 29,
+        "dislike": 0,
+        "admiration": 2,
+        "comfortable": 29,
+        "jealousy": 0,
+        "trust": 19,
+        "log": [
+            "Leopardbreeze and Dreamdawn have to break up a fight between their Clanmates. (neutral effect) - Leopardbreeze was 134 moons old",
+            "Leopardbreeze just told Dreamdawn a hilarious joke. (medium positive effect) - Leopardbreeze was 138 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 28,
+        "dislike": 21,
+        "admiration": 5,
+        "comfortable": 26,
+        "jealousy": 0,
+        "trust": 28,
+        "log": [
+            "Leopardbreeze and Nightmaredusk agree on something the rest of the Clan finds contentious. (high positive effect) - Leopardbreeze was 132 moons old",
+            "Leopardbreeze overheard Nightmaredusk spreading a hurtful rumor. (high negative effect) - Leopardbreeze was 139 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 34,
+        "dislike": 5,
+        "admiration": 2,
+        "comfortable": 27,
+        "jealousy": 0,
+        "trust": 2,
+        "log": [
+            "Leopardbreeze wants to be closer to Emberdrift. (low positive effect) - Leopardbreeze was 138 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "164",
+        "mates": true,
+        "family": false,
+        "romantic_love": 28,
+        "platonic_like": 20,
+        "dislike": 0,
+        "admiration": 11,
+        "comfortable": 42,
+        "jealousy": 0,
+        "trust": 11,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tsunamiroar was 112 moons old",
+            "These cats recently interacted. (negative effect)- Tsunamiroar was 118 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 17,
+        "dislike": 0,
+        "admiration": 23,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 22,
+        "log": [
+            "Leopardbreeze is amazed at how skilled Galeswift really is. (high positive effect) - Leopardbreeze was 134 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 18 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 19 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old",
+            "Galeswift gives advice to Leopardbreeze. It's not good advice, but Leopardbreeze appreciates the effort. (low positive effect) - Leopardbreeze was 146 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 28,
+        "dislike": 0,
+        "admiration": 24,
+        "comfortable": 27,
+        "jealousy": 0,
+        "trust": 11,
+        "log": [
+            "Leopardbreeze and Goldenblink enjoy each other's company. (high positive effect) - Leopardbreeze was 137 moons old",
+            "Leopardbreeze had a difficult conversation with Goldenblink and they now have a deeper understanding of each other. (high positive effect) - Leopardbreeze was 137 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 1,
+        "dislike": 2,
+        "admiration": 6,
+        "comfortable": 27,
+        "jealousy": 3,
+        "trust": 16,
+        "log": [
+            "Leopardbreeze's friend says nice things about Ferretslither, but it just makes Leopardbreeze jealous. (low negative effect) - Leopardbreeze was 141 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 54,
+        "dislike": 0,
+        "admiration": 26,
+        "comfortable": 41,
+        "jealousy": 0,
+        "trust": 24,
+        "log": [
+            "Leopardbreeze gets excellent advice from Darkspark about something she had been worrying about. (high positive effect) - Leopardbreeze was 140 moons old",
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old",
+            "Leopardbreeze is fascinated by one of Darkspark's stories. (medium positive effect) - Leopardbreeze was 144 moons old",
+            "Leopardbreeze saw Darkspark being considerate. (low positive effect) - Leopardbreeze was 147 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 22,
+        "dislike": 0,
+        "admiration": 21,
+        "comfortable": 31,
+        "jealousy": 0,
+        "trust": 19,
+        "log": [
+            "Leopardbreeze learns that Heatherdaisy is scared of thunder, too. (low positive effect) - Leopardbreeze was 132 moons old",
+            "Leopardbreeze and Heatherdaisy work together to lead a scary bug out of the camp. (low positive effect) - Leopardbreeze was 135 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "170",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 15,
+        "dislike": 0,
+        "admiration": 15,
+        "comfortable": 21,
+        "jealousy": 0,
+        "trust": 11,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "171",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 4,
+        "dislike": 0,
+        "admiration": 16,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 12,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Leopardbreeze has a friendly chat with Lightningkit that leaves them both feeling happy. (low positive effect) - Leopardbreeze was 136 moons old",
+            "Leopardbreeze watches Lightningpaw wind up for a sneeze, but it never happens. (neutral effect) - Leopardbreeze was 141 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "Leopardbreeze shared a embarrassing story about Lightningdapple she was asked not to share... (low negative effect) - Leopardbreeze was 147 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Leopardbreeze keeps asking Murmurkit to explain a joke, but Murmurkit just says that Leopardbreeze had to be there. (low negative effect) - Leopardbreeze was 133 moons old",
+            "Murmurdawn compliments Leopardbreeze's name. (low positive effect) - Leopardbreeze was 145 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 3,
+        "admiration": 15,
+        "comfortable": 4,
+        "jealousy": 13,
+        "trust": 5,
+        "log": [
+            "Spiritkit goes out of his way to help Leopardbreeze with something without being asked. (medium positive effect) - Leopardbreeze was 133 moons old",
+            "Leopardbreeze wishes that a Clanmate liked her as much as they like Spiritkit. (low negative effect) - Leopardbreeze was 135 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 2,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 11,
+        "trust": 0,
+        "log": [
+            "Leopardbreeze has big plans for the day, but they're thwarted by Tempestswirl doing something more important. (high negative effect) - Leopardbreeze was 142 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old",
+            "Leopardbreeze doubts whether Tempestswirl even likes her at all... (high negative effect) - Leopardbreeze was 149 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Leopardbreeze runs into Emeraldpaw at the medicine den. They both have a tummy ache from two halves of the same prey. (neutral effect) - Leopardbreeze was 139 moons old",
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 54,
+        "dislike": 0,
+        "admiration": 51,
+        "comfortable": 54,
+        "jealousy": 0,
+        "trust": 48,
+        "log": [
+            "Leopardbreeze admires how brave Bronzepaw is. (medium positive effect) - Leopardbreeze was 148 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": true,
+        "romantic_love": 0,
+        "platonic_like": 38,
+        "dislike": 0,
+        "admiration": 36,
+        "comfortable": 42,
+        "jealousy": 0,
+        "trust": 40,
+        "log": [
+            "Leopardbreeze thinks Squirrelkit has been acting stuck up and rude. (medium negative effect) - Leopardbreeze was 144 moons old",
+            "Leopardbreeze has faith in Squirrelpaw. (medium positive effect) - Leopardbreeze was 148 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 13,
+        "jealousy": 0,
+        "trust": 8,
+        "log": [
+            "Leopardbreeze and Basaltpaw realize they have a similar sense of humor. (medium positive effect) - Leopardbreeze was 143 moons old",
+            "Basaltpaw makes a small sacrifice that benefits Leopardbreeze. (low positive effect) - Leopardbreeze was 146 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 12,
+        "log": [
+            "Limiting Reactant bumped into Leopardbreeze and didn't even apologize! (low negative effect) - Leopardbreeze was 145 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "163",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    }
+]

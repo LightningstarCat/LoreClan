@@ -1,0 +1,31 @@
+{
+    "beginning": {
+        "clan_born": false,
+        "birth_season": null,
+        "age": 10,
+        "moon": 13,
+        "encountered": false
+    },
+    "mentor_influence": {
+        "trait": {
+            "7": {
+                "stability": 1,
+                "strings": [
+                    "stay collected"
+                ]
+            }
+        },
+        "skill": {}
+    },
+    "app_ceremony": {
+        "honor": "dependability",
+        "graduation_age": 11,
+        "moon": 14
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

@@ -1,0 +1,31 @@
+{
+    "beginning": {},
+    "mentor_influence": {
+        "trait": {
+            "160": {
+                "aggression": -2,
+                "stability": 2,
+                "sociability": -1,
+                "lawfulness": 2,
+                "strings": [
+                    "try to avoid violence",
+                    "stay collected",
+                    "be cold towards others",
+                    "heed {PRONOUN\/m_c\/poss} inner compass"
+                ]
+            }
+        },
+        "skill": {}
+    },
+    "app_ceremony": {
+        "honor": "friendliness",
+        "graduation_age": 10,
+        "moon": 11
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

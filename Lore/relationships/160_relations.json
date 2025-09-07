@@ -1,0 +1,635 @@
+[
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "155",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 25,
+        "dislike": 0,
+        "admiration": 1,
+        "comfortable": 18,
+        "jealousy": 0,
+        "trust": 3,
+        "log": [
+            "Willowpaw won't tell Dreamdawn what she ate this morning. (low negative effect) - Dreamdawn was 53 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "156",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 52,
+        "dislike": 0,
+        "admiration": 32,
+        "comfortable": 53,
+        "jealousy": 0,
+        "trust": 34,
+        "log": [
+            "These cats recently interacted. (positive effect)- Lorestar was 54 moons old",
+            "Dreamdawn likes the way Lorestar laughs. (medium positive effect) - Dreamdawn was 55 moons old",
+            "Dreamdawn wants to explore the whole territory with Lorestar! (medium positive effect) - Dreamdawn was 60 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 63 moons old",
+            "These cats recently interacted. (positive effect)- Lorestar was 69 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "157",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 25,
+        "dislike": 0,
+        "admiration": 29,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 31,
+        "log": [
+            "These cats recently interacted. (positive effect)- Steadyheart was 28 moons old",
+            "These cats recently interacted. (positive effect)- Steadyheart was 34 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "158",
+        "mates": false,
+        "family": false,
+        "romantic_love": 3,
+        "platonic_like": 23,
+        "dislike": 0,
+        "admiration": 17,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Dreamdawn just noticed how beautiful Yellowfang's eyes are. (low positive effect) - Dreamdawn was 55 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "159",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 71,
+        "dislike": 0,
+        "admiration": 24,
+        "comfortable": 49,
+        "jealousy": 0,
+        "trust": 19,
+        "log": [
+            "Dreamdawn noticed that Rootpaw is falling behind in training and offered to help her catch up. (medium positive effect) - Dreamdawn was 57 moons old",
+            "Dreamdawn and Rootpaw get a little giggly off of some mysterious herbs they found on a patrol. (medium positive effect) - Dreamdawn was 58 moons old",
+            "Dreamdawn and Rootpaw accidentally startle one another. (neutral effect) - Dreamdawn was 59 moons old",
+            "These cats recently interacted. (positive effect)- Rootpaw was 10 moons old",
+            "Dreamdawn thinks Rootpaw was nice to her today. (low positive effect) - Dreamdawn was 61 moons old",
+            "Dreamdawn always wants to say hello to Rootpounce first thing in the morning. (medium positive effect) - Dreamdawn was 65 moons old",
+            "These cats recently interacted. (positive effect)- Rootpounce was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "161",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 20,
+        "admiration": 20,
+        "comfortable": 12,
+        "jealousy": 6,
+        "trust": 9,
+        "log": [
+            "Dreamdawn and Nightmaredusk make fun of one another, but it sounds more like insults than playful banter. (medium negative effect) - Dreamdawn was 53 moons old",
+            "These cats recently interacted. (positive effect)- Nightmaredusk was 35 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "162",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 35,
+        "dislike": 13,
+        "admiration": 11,
+        "comfortable": 6,
+        "jealousy": 1,
+        "trust": 7,
+        "log": [
+            "These cats recently interacted. (positive effect)- Emberdrift was 11 moons old",
+            "Dreamdawn doesn't think Emberdrift's weird joke was just a joke. (medium negative effect) - Dreamdawn was 56 moons old",
+            "Dreamdawn wishes that a Clanmate liked her as much as they like Emberdrift. (low negative effect) - Dreamdawn was 58 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 16 moons old",
+            "These cats recently interacted. (positive effect)- Emberdrift was 17 moons old",
+            "Emberdrift lets Dreamdawn grab a piece of fresh-kill first. (low positive effect) - Dreamdawn was 64 moons old",
+            "These cats recently interacted. (negative effect)- Emberdrift was 22 moons old",
+            "Dreamdawn nods politely as Emberdrift passes by. (neutral effect) - Dreamdawn was 70 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "163",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 6,
+        "dislike": 0,
+        "admiration": 9,
+        "comfortable": 32,
+        "jealousy": 0,
+        "trust": 10,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "164",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 8,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 15,
+        "jealousy": 0,
+        "trust": 14,
+        "log": [
+            "These cats recently interacted. (positive effect)- Tsunamiroar was 112 moons old",
+            "These cats recently interacted. (negative effect)- Tsunamiroar was 118 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "165",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 7,
+        "dislike": 0,
+        "admiration": 18,
+        "comfortable": 10,
+        "jealousy": 0,
+        "trust": 22,
+        "log": [
+            "These cats recently interacted. (negative effect)- Galeswift was 18 moons old",
+            "These cats recently interacted. (negative effect)- Galeswift was 19 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 20 moons old",
+            "Dreamdawn has faith in Galeswift. (medium positive effect) - Dreamdawn was 62 moons old",
+            "These cats recently interacted. (positive effect)- Galeswift was 22 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "166",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 26,
+        "dislike": 0,
+        "admiration": 9,
+        "comfortable": 16,
+        "jealousy": 0,
+        "trust": 1,
+        "log": [
+            "Dreamdawn is frustrated with Goldenblink, but hears her crying alone and immediately feels guilty. (medium positive effect) - Dreamdawn was 57 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "167",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 17,
+        "dislike": 0,
+        "admiration": 3,
+        "comfortable": 46,
+        "jealousy": 0,
+        "trust": 36,
+        "log": [
+            "Dreamdawn thought Ferretslither was very polite today. (low positive effect) - Dreamdawn was 56 moons old",
+            "Dreamdawn trusts Ferretslither with a very important task. (high positive effect) - Dreamdawn was 59 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "168",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 35,
+        "dislike": 0,
+        "admiration": 20,
+        "comfortable": 24,
+        "jealousy": 0,
+        "trust": 36,
+        "log": [
+            "These cats recently interacted. (positive effect)- Darkspark was 65 moons old",
+            "Dreamdawn and Darkspark work well on a patrol together. (medium positive effect) - Dreamdawn was 65 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "169",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 16,
+        "comfortable": 15,
+        "jealousy": 0,
+        "trust": 16,
+        "log": [
+            "Dreamdawn learns a helpful skill from Heatherdaisy. (medium positive effect) - Dreamdawn was 64 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "170",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 13,
+        "dislike": 0,
+        "admiration": 16,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 10,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "171",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "154",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 26,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 23,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Dreamdawn checks in on Lightningkit every day. (high positive effect) - Dreamdawn was 54 moons old",
+            "Dreamdawn didn't expect Lightningkit to be so amicable today. (low positive effect) - Dreamdawn was 55 moons old",
+            "These cats recently interacted. (positive effect)- Lightningpaw was 6 moons old",
+            "Dreamdawn stops and thinks before assuming the worst of Lightningdapple. (low positive effect) - Dreamdawn was 67 moons old",
+            "These cats recently interacted. (negative effect)- Lightningdapple was 14 moons old",
+            "These cats recently interacted. (positive effect)- Lightningdapple was 15 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "1",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 8,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "2",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 21,
+        "dislike": 0,
+        "admiration": 27,
+        "comfortable": 27,
+        "jealousy": 0,
+        "trust": 29,
+        "log": [
+            "Dreamdawn apologized to Spiritkit for being rude the other day. (low positive effect) - Dreamdawn was 54 moons old",
+            "Dreamdawn bumps heads with Spiritpaw reassuringly. (medium positive effect) - Dreamdawn was 61 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 12 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 13 moons old",
+            "These cats recently interacted. (positive effect)- Spiritmeadow was 14 moons old",
+            "Spiritmeadow says something vulnerable to Dreamdawn. (low positive effect) - Dreamdawn was 68 moons old",
+            "Spiritmeadow compliments Dreamdawn's name. (low positive effect) - Dreamdawn was 68 moons old",
+            "Dreamdawn and Spiritmeadow have a race. Dreamdawn wins. (medium positive effect) - Dreamdawn was 69 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "3",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 11,
+        "admiration": 10,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Dreamdawn argues with Tempestswirl in front of other cats and reveals something embarrassing. (high negative effect) - Dreamdawn was 66 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 43 moons old",
+            "These cats recently interacted. (positive effect)- Tempestswirl was 44 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "5",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 12,
+        "jealousy": 0,
+        "trust": 17,
+        "log": [
+            "These cats recently interacted. (positive effect)- Hazeltalon was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "7",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 5,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "Dreamdawn sees Emeraldpaw be kind to one of Dreamdawn's friends. (low positive effect) - Dreamdawn was 60 moons old",
+            "These cats recently interacted. (positive effect)- Emeraldcall was 16 moons old",
+            "These cats recently interacted. (positive effect)- Emeraldcall was 19 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "8",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "9",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (positive effect)- Squirrelpaw was 6 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "10",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 10,
+        "comfortable": 8,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "These cats recently interacted. (negative effect)- Ketsl was 94 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 99 moons old",
+            "These cats recently interacted. (positive effect)- Electricnight was 100 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "11",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 2,
+        "admiration": 21,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "Rainkit laughs a little too long at one of Dreamdawn's jokes. (low negative effect) - Dreamdawn was 62 moons old",
+            "Dreamdawn is realizing Rainkit has been lying about a few things. (low negative effect) - Dreamdawn was 63 moons old",
+            "Dreamdawn asks Rainpaw if there's something in her teeth. (neutral effect) - Dreamdawn was 66 moons old",
+            "These cats recently interacted. (positive effect)- Rainpaw was 9 moons old",
+            "When discussing the future, Dreamdawn and Rainpaw discuss the policies they'd implement in a Clan of their own. (high positive effect) - Dreamdawn was 67 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "12",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 31,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 24,
+        "log": [
+            "Dreamdawn and Basaltkit learn a lot about each other when they're stuck in a den during a storm. (high positive effect) - Dreamdawn was 63 moons old",
+            "These cats recently interacted. (positive effect)- Basaltpaw was 7 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "13",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 15,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 10,
+        "log": [
+            "These cats recently interacted. (positive effect)- Slateflood was 104 moons old",
+            "These cats recently interacted. (positive effect)- Slateflood was 106 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "15",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "16",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "17",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "18",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "19",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 8,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": [
+            "Dreamdawn doubts whether Serpentgleam even likes her at all... (high negative effect) - Dreamdawn was 69 moons old",
+            "Serpentgleam yawns while Dreamdawn is trying to tell him something. (low negative effect) - Dreamdawn was 70 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "6",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "20",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "173",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "21",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 5,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 5,
+        "log": [
+            "These cats recently interacted. (positive effect)- Poemscreech was 87 moons old"
+        ]
+    },
+    {
+        "cat_from_id": "160",
+        "cat_to_id": "4",
+        "mates": false,
+        "family": false,
+        "romantic_love": 0,
+        "platonic_like": 0,
+        "dislike": 0,
+        "admiration": 0,
+        "comfortable": 0,
+        "jealousy": 0,
+        "trust": 0,
+        "log": []
+    }
+]

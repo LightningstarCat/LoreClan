@@ -1,0 +1,38 @@
+{
+    "beginning": {
+        "clan_born": false,
+        "birth_season": null,
+        "age": 4,
+        "moon": 9,
+        "encountered": false
+    },
+    "mentor_influence": {
+        "trait": {
+            "166": {
+                "lawfulness": -2,
+                "strings": [
+                    "break away from the status quo"
+                ]
+            }
+        },
+        "skill": {
+            "166": {
+                "CLIMBER": 3,
+                "strings": [
+                    "climbing"
+                ]
+            }
+        }
+    },
+    "app_ceremony": {
+        "honor": "tranquility",
+        "graduation_age": 11,
+        "moon": 16
+    },
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}

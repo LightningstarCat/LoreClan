@@ -1,0 +1,745 @@
+[
+    {
+        "text": "You take a moment to stretch out in a warm patch of sunlight, enjoying a brief respite from your warrior duties.",
+        "types": [
+            "alert"
+        ],
+        "cats_involved": [
+            "154"
+        ]
+    },
+    {
+        "text": "Tempestswirl is talking about a kittypet she met on patrol. You recall that kittypet as well. Small world!",
+        "types": [
+            "alert"
+        ],
+        "cats_involved": [
+            "154",
+            "3"
+        ]
+    },
+    {
+        "text": "Fresh-kill tastes a little better, a little brighter, like it's cleaner. While the Clan might be a little thinner than they used to be, it seems as if they can now eat anything they catch again - if they can catch it!",
+        "types": [
+            "alert"
+        ],
+        "cats_involved": []
+    },
+    {
+        "text": "Lorestar goes on and on about what a great alliance LoreClan and SilentClan have during their speech at the Gathering. SilentClan's leader coughs meaningfully; during their speech, they announce SilentClan will be focusing on its own priorities in the coming moons and suggest LoreClan does the same. (SilentClan relations worsened.)",
+        "types": [
+            "other_clans"
+        ],
+        "cats_involved": [
+            "156"
+        ]
+    },
+    {
+        "text": "Electricnight draws a pretty symbol in the sand that Lightningdapple makes sure not to mess up. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "10",
+            "154"
+        ]
+    },
+    {
+        "text": "Willowbreeze thinks Vulturethorn isn't very considerate of others. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "20",
+            "155"
+        ]
+    },
+    {
+        "text": "Lorestar spends some time sheltering with Sunpaw during a storm. (medium positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "17",
+            "156"
+        ]
+    },
+    {
+        "text": "Lightningdapple points out that maybe Lorestar's jealousy over Bronzepaw is caused by insecurity and envy rather than genuine hate. It gives Lorestar a lot to think about. (positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "156",
+            "154",
+            "8"
+        ]
+    },
+    {
+        "text": "When Lorestar tells Wrenrush about a goal they have, Wrenrush snickers at it. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "6",
+            "156"
+        ]
+    },
+    {
+        "text": "Steadyheart tells her Clanmates that something's off about Goldenblink. (medium negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "166",
+            "157"
+        ]
+    },
+    {
+        "text": "Goldenblink thanked Yellowfang for bringing her food. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "166",
+            "158"
+        ]
+    },
+    {
+        "text": "Yellowfang, Slightdust, and Steadyheart had a nice talk while eating. (neutral effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "158",
+            "15",
+            "157"
+        ]
+    },
+    {
+        "text": "Yellowfang sees a pretty flower in Squirrelpaw's nest. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "9",
+            "158"
+        ]
+    },
+    {
+        "text": "Yellowfang purrs for a long time at one of Lorestar's lame jokes. (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "156",
+            "158"
+        ]
+    },
+    {
+        "text": "Slateflood calls out the Clan for targeting Rootpounce. (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "13",
+            "159"
+        ]
+    },
+    {
+        "text": "Serpentgleam yawns while Dreamdawn is trying to tell him something. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "19",
+            "160"
+        ]
+    },
+    {
+        "text": "Dreamdawn nods politely as Emberdrift passes by. (neutral effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "162",
+            "160"
+        ]
+    },
+    {
+        "text": "Nightmaredusk is glaring daggers at Electricnight. (medium negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "10",
+            "161"
+        ]
+    },
+    {
+        "text": "Nightmaredusk, wanting to help keep her Clanmates in shape and ready for anything, woke Heatherdaisy, Darkspark, Ferretslither, and Leopardbreeze up early for morning stretches. (negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "161",
+            "169",
+            "168",
+            "167",
+            "163"
+        ]
+    },
+    {
+        "text": "Emberdrift eats with Serpentgleam all the time! (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "19",
+            "162"
+        ]
+    },
+    {
+        "text": "Rootpounce is poised to help train Leopardbreeze. (medium positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "159",
+            "163"
+        ]
+    },
+    {
+        "text": "Leopardbreeze doubts whether Tempestswirl even likes her at all... (high negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "3",
+            "163"
+        ]
+    },
+    {
+        "text": "Tsunamiroar and Rootpounce heckled another Clan at the Gathering together. (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "159",
+            "164"
+        ]
+    },
+    {
+        "text": "Serpentgleam bluntly claims Tsunamiroar is being childish over his relationship with Slateflood. (positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "164",
+            "19",
+            "13"
+        ]
+    },
+    {
+        "text": "Tsunamiroar sees Lorestar be kind to one of Tsunamiroar's friends. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "156",
+            "164"
+        ]
+    },
+    {
+        "text": "Murmurfox didn't put a lot of thought into an answer for Galeswift's question. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "1",
+            "165"
+        ]
+    },
+    {
+        "text": "Goldenblink finds more comfort in the wasteland of the Dark Forest than the supposed paradise of StarClan. (Dark Forest faith increased)",
+        "types": [
+            "faith"
+        ],
+        "cats_involved": [
+            "166"
+        ]
+    },
+    {
+        "text": "Goldenblink and Lorestar roll up moss balls together. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "156",
+            "166"
+        ]
+    },
+    {
+        "text": "Goldenblink watches Raingrass wind up for a sneeze, but it never happens. (neutral effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "11",
+            "166"
+        ]
+    },
+    {
+        "text": "While her Clanmates pray to StarClan, Ferretslither gives thanks to a force much darker. (Dark Forest faith increased)",
+        "types": [
+            "faith"
+        ],
+        "cats_involved": [
+            "167"
+        ]
+    },
+    {
+        "text": "Ferretslither complains about something Lorestar did. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "156",
+            "167"
+        ]
+    },
+    {
+        "text": "Ferretslither sees Serpentgleam being gentle with an injured bug. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "19",
+            "167"
+        ]
+    },
+    {
+        "text": "Darkspark offers to groom a hard-to-reach place for Bronzepaw, who thanks her earnestly. (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "8",
+            "168"
+        ]
+    },
+    {
+        "text": "Darkspark shares a joke about a neighboring Clan with Bronzepaw. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "8",
+            "168"
+        ]
+    },
+    {
+        "text": "Both Heatherdaisy and Galeswift enthusiastically congratulate another Clanmate on something. (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "165",
+            "169"
+        ]
+    },
+    {
+        "text": "Emberdrift helps Heatherdaisy get a thorn out of his paw. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "162",
+            "169"
+        ]
+    },
+    {
+        "text": "Buggs swears that Squirrelpaw's fangs are longer than usual. (medium negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "9",
+            "173"
+        ]
+    },
+    {
+        "text": "Buggs sees that Lightningdapple's piece of prey looks tastier and asks if she'd like to swap. She agrees happily, saying she likes that one better. (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "154",
+            "173"
+        ]
+    },
+    {
+        "text": "Murmurfox eats a meal without thanking StarClan. (StarClan faith decreased)",
+        "types": [
+            "faith"
+        ],
+        "cats_involved": [
+            "1"
+        ]
+    },
+    {
+        "text": "Murmurfox settles near Slateflood to eat her fresh-kill. (medium positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "13",
+            "1"
+        ]
+    },
+    {
+        "text": "Spiritmeadow asks Lightningdapple a bold question. (neutral effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "154",
+            "2"
+        ]
+    },
+    {
+        "text": "The leader was more impressed by what Serpentgleam brought back from a hunting patrol than what Tempestswirl did. (medium negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "19",
+            "3"
+        ]
+    },
+    {
+        "text": "Snowyfoot and Willowbreeze always challenge one another. (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "155",
+            "4"
+        ]
+    },
+    {
+        "text": "Snowyfoot snickers as Nightmaredusk falls flat on her face in the middle of camp. (medium negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "161",
+            "4"
+        ]
+    },
+    {
+        "text": "Hazeltalon is telling Wrenrush something interesting about another Clan. (medium positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "text": "Hazeltalon notices that Tempestswirl makes other Clanmates laugh more than he does. (medium negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "3",
+            "5"
+        ]
+    },
+    {
+        "text": "Wrenrush and Vulturethorn have an argument about who should get a pretty feather, and end up destroying it in their fight. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "20",
+            "6"
+        ]
+    },
+    {
+        "text": "Emeraldcall trips over air in the middle of camp, cursing StarClan in embarrassment. (StarClan faith increased)",
+        "types": [
+            "faith"
+        ],
+        "cats_involved": [
+            "7"
+        ]
+    },
+    {
+        "text": "Emeraldcall has drawn the ire of Yellowfang by deliberately taking the last of her favorite nesting materials for himself. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "158",
+            "7"
+        ]
+    },
+    {
+        "text": "Lightningdapple bluntly claims Emeraldcall is being childish over his relationship with Tsunamiroar. (positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "7",
+            "154",
+            "164"
+        ]
+    },
+    {
+        "text": "Bronzepaw has excelled at every task placed before him. Despite his young age, he is more than ready to be a warrior. He is given the name Bronzecrag, honoring his hard work. ",
+        "types": [
+            "ceremony"
+        ],
+        "cats_involved": [
+            "8"
+        ]
+    },
+    {
+        "text": "Bronzecrag doesn't think that Emeraldcall has been completely honest lately. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "7",
+            "8"
+        ]
+    },
+    {
+        "text": "Squirrelpaw and Snowyfoot notice a cloud is shaped like a bird. (neutral effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "4",
+            "9"
+        ]
+    },
+    {
+        "text": "Electricnight remembers something nice that Wrenrush did. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "6",
+            "10"
+        ]
+    },
+    {
+        "text": "Electricnight points out a constellation to Lightningdapple. (neutral effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "154",
+            "10"
+        ]
+    },
+    {
+        "text": "Electricnight and Slightdust had a huge fight and broke up.",
+        "types": [
+            "relation",
+            "misc"
+        ],
+        "cats_involved": [
+            "10",
+            "15"
+        ]
+    },
+    {
+        "text": "A big bug keeps buzzing around Raingrass and Sunpaw. (neutral effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "17",
+            "11"
+        ]
+    },
+    {
+        "text": "Basaltleopard offers to groom a hard-to-reach place for Goldenblink, who thanks him earnestly. (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "166",
+            "12"
+        ]
+    },
+    {
+        "text": "Slateflood and Buggs argued about something trivial and neither of them apologized. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "173",
+            "13"
+        ]
+    },
+    {
+        "text": "Slateflood thinks that Basaltleopard looks nice today. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "12",
+            "13"
+        ]
+    },
+    {
+        "text": "Time has taken its toll and Slightdust has noticed themself slowing down. They have worked timelessly for many moons, but it is time for them to retire.",
+        "types": [
+            "ceremony"
+        ],
+        "cats_involved": [
+            "15"
+        ]
+    },
+    {
+        "text": "Basaltleopard gets a bug off of Slightdust's pelt and takes it out of camp. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "12",
+            "15"
+        ]
+    },
+    {
+        "text": "Slightdust thinks that Vulturethorn spread a rumor about them. (medium negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "20",
+            "15"
+        ]
+    },
+    {
+        "text": "Sunpaw finds a bit of fluff that smells like Ferretslither and adds it to his nest. (low positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "167",
+            "17"
+        ]
+    },
+    {
+        "text": "Serpentgleam has survived yellowcough.",
+        "types": [
+            "health"
+        ],
+        "cats_involved": [
+            "19"
+        ]
+    },
+    {
+        "text": "Both Serpentgleam and Yellowfang enthusiastically congratulate another Clanmate on something. (high positive effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "158",
+            "19"
+        ]
+    },
+    {
+        "text": "Vulturethorn and Slateflood accidentally startle one another. (neutral effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "13",
+            "20"
+        ]
+    },
+    {
+        "text": "Poemscreech notices one of her friends talking to Emeraldcall. (low negative effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "7",
+            "21"
+        ]
+    },
+    {
+        "text": "When a Clanmate passes by holding stinking herbs, both Poemscreech and Bronzecrag gag. (neutral effect)",
+        "types": [
+            "relation",
+            "interaction"
+        ],
+        "cats_involved": [
+            "8",
+            "21"
+        ]
+    }
+]

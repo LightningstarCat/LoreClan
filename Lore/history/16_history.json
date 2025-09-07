@@ -1,0 +1,26 @@
+{
+    "beginning": {
+        "clan_born": false,
+        "birth_season": null,
+        "age": 88,
+        "moon": 12,
+        "encountered": false
+    },
+    "mentor_influence": {
+        "trait": {},
+        "skill": {}
+    },
+    "app_ceremony": {},
+    "lead_ceremony": null,
+    "possible_history": {},
+    "died_by": [
+        {
+            "involved": null,
+            "text": "m_c died from an injury or illness (broken back).",
+            "moon": 15
+        }
+    ],
+    "scar_events": [],
+    "murder": {},
+    "wrong_placement": false
+}
